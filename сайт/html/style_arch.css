@@ -1,0 +1,67 @@
+body {
+	font-family: 'Century Gothic';
+}
+a{
+  background-color: #F0F0F0;
+  font-size: 20px;
+  padding: 10px;
+  color: red;
+  text-decoration: none;
+  border-right: 1px #dcdcdc solid;
+  border-left: 1px #dcdcdc solid;
+  color: #585858;
+}
+a:hover{
+ 
+  background: linear-gradient(#d6d6d6,#F0F0F0);
+  font-size: 20px;
+  padding: 10px;
+  color: #585858;
+}
+a1{
+  font-size: 25px;
+  padding: 100px;
+  color:red;
+}
+a2{
+  font-size: 25px;
+  padding: 100px;
+  color:#FFFFFF;
+}
+nav {
+  background-color: #F0F0F0;
+  padding: 10px;
+}
+input{
+  font-size: 17px;
+  padding: 0px 400px 0px 0px;
+  background: linear-gradient(#282828,#282828);
+  text-decoration: none;
+  border: #FFFFFF;
+  border-bottom: 2px #585858 solid; 
+}
+button{
+  font-size: 17px;
+  background: linear-gradient(#282828,#282828);
+  border: 2px #FFCC33 solid;
+  border-radius:5px;
+  background: #FFCC33;
+} 
+
+.text-block {
+text-align: center;
+margin: 0% 20% 0% 20%
+}
+
+p{
+background-color: #282828;
+color: #d6d6d6;
+  }  
+     
+a3:hover{
+background-color:#d6d6d6;
+color: #585858;
+ 
+padding: 30px;
+    
+}

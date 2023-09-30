@@ -1,0 +1,101 @@
+body {
+	font-family: 'Century Gothic';
+}
+.body_hide {
+  .body_visible {
+	opacity: 1;
+	
+}
+opacity: 0;
+	transition: .9s opacity ease-in-out;
+}
+
+nav {
+  background-color: #F0F0F0;
+  padding: 10px;
+}
+
+a2{
+  font-size: 25px;
+  padding: 100px;
+  color:#FFFFFF;
+  text-decoration: none;
+  padding: 0px 00px 0px 100px;
+}
+a2:hover{
+  color: #FFFFFF;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+nav .search-box {
+ float: right;
+ margin-right: 25%;
+  
+}
+input{
+  font-size: 17px;
+  padding: 10px 400px 0px 0px;
+  background: linear-gradient(#282828,#282828);
+  text-decoration: none;
+  border: #FFFFFF;
+  border-bottom: 2px #585858 solid; 
+}
+button{
+  font-size: 17px;
+  background: linear-gradient(#282828,#282828);
+  border: 2px #FFCC33 solid;
+  border-radius:5px;
+  background: #FFCC33;
+} 
+a{
+  background-color: #F0F0F0;
+  font-size: 20px;
+  padding: 10px;
+  color: red;
+  text-decoration: none;
+  border-right: 1px #dcdcdc solid;
+  border-left: 1px #dcdcdc solid;
+  color: #585858;
+}
+a:hover{
+ 
+  background: linear-gradient(#d6d6d6,#F0F0F0);
+  font-size: 20px;
+  padding: 10px;
+  color: #585858;
+  
+}
+a3{
+  font-size: 25px;
+  padding: 100px;
+  color:red;
+  text-decoration: none;
+  padding: 0px 00px 0px 100px;
+}
+a3:hover{
+  color: #FFFFFF;
+  font-weight: bolder;
+  text-decoration: none;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.round {
+    border-radius: 500px; /* Радиус скругления */
+    box-shadow: 0 50px 80px #282828; /* Параметры тени */
+   }
+
+.scale {
+    transition: 1s; /* Время эффекта */
+   }
+   .scale:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+     padding: 0px 600px 0px 0px;
+   }
+.round {
+    border-radius: 1000px; /* Радиус скругления */
+    box-shadow: 20px 20px 20px red; /* Параметры тени */ *
+   }

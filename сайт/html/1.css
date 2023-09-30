@@ -1,0 +1,99 @@
+.negational-cukasencun-kebangem {
+    width: 501px;
+    height: 165px;
+    background-color: #f9f9f9;
+    position: relative;
+    border: 2px solid rgba(251, 246, 246, 0.22);
+    border-radius: 8px;
+    box-shadow: 0 0 5px #2b2929;
+    padding: 18px 37px;
+    float: left;
+    margin: 8px 8px 0px 0px;
+  }
+  
+  @font-face { font-family: Roboto Condensed src: url(https://fonts.googleapis.com/css?family=Roboto+Condensed); }
+  .negational-cukasencun-kebangem h2 { font-size: 13px; color: #1a1a1a; }
+  .negational-cukasencun-kebangem p { font-size: 12px; color: #1a1a1a; font-family: 'Roboto Condensed', sans-serif; }
+  
+  .kangemdenes { height: 260px; position: relative; width: 640px; }
+     
+  @-webkit-keyframes anim_kangemdenes {
+  0% { opacity:0; }
+  6% { opacity:1; }
+  24% { opacity:1; }
+  30% { opacity:0; }
+  100% { opacity:0; }
+  }
+  @-moz-keyframes anim_kangemdenes {
+  0% { opacity:0; }
+  6% { opacity:1; }
+  24% { opacity:1; }
+  30% { opacity:0; }
+  100% {opacity:0;}
+  }
+     
+  .negational-cukasencun-kebangem{opacity:0; position:absolute; top:0;
+     
+  -webkit-animation-name: anim_kangemdenes;
+  -webkit-animation-duration: 56.0s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: normal;
+  -webkit-animation-delay: 0;
+  -webkit-animation-play-state: running;
+  -webkit-animation-fill-mode: forwards;
+     
+  -moz-animation-name: anim_kangemdenes;
+  -moz-animation-duration: 56.0s;
+  -moz-animation-timing-function: linear;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-direction: normal;
+  -moz-animation-delay: 0;
+  -moz-animation-play-state: running;
+  -moz-animation-fill-mode: forwards;
+  }
+     
+  
+  .negational-cukasencun-kebangem:nth-child(2), .negational-cukasencun-kebangem:nth-child(2){
+  -webkit-animation-delay: 8.0s;
+  -moz-animation-delay: 8.0s;
+  }
+  .negational-cukasencun-kebangem:nth-child(3), .negational-cukasencun-kebangem:nth-child(3){
+  -webkit-animation-delay: 16.0s;
+  -moz-animation-delay: 16.0s;
+  }
+  .negational-cukasencun-kebangem:nth-child(4), .negational-cukasencun-kebangem:nth-child(4){
+  -webkit-animation-delay: 24.0s;
+  -moz-animation-delay: 24.0s;
+  }
+  .negational-cukasencun-kebangem:nth-child(5), .negational-cukasencun-kebangem:nth-child(5){
+  -webkit-animation-delay: 32.0s;
+  -moz-animation-delay: 32.0s;
+  }
+  .negational-cukasencun-kebangem:nth-child(6), .negational-cukasencun-kebangem:nth-child(6){
+  -webkit-animation-delay: 40.0s;
+  -moz-animation-delay: 40.0s;
+  }
+  .negational-cukasencun-kebangem:nth-child(7), .negational-cukasencun-kebangem:nth-child(7){
+  -webkit-animation-delay: 48.0s;
+  -moz-animation-delay: 48.0s;
+  }
+  .negational-cukasencun-kebangem:nth-child(8), .negational-cukasencun-kebangem:nth-child(8){
+  -webkit-animation-delay: 56.0s;
+  -moz-animation-delay: 56.0s;
+  }
+  
+  @-webkit-keyframes anim_titles {
+  0% { left:100%; opacity:0; }
+  5% { left:10%; opacity:1; }
+  20% { left:10%; opacity:1; }
+  25% { left:100%; opacity:0; }
+  100% { left:100%; opacity:0; }
+  }
+  @-moz-keyframes anim_titles {
+  0% { left:100%; opacity:0; }
+  5% { left:10%; opacity:1; }
+  20% { left:10%; opacity:1; }
+  25% { left:100%; opacity:0; }
+  100% { left:100%; opacity:0; }
+  }
