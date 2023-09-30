@@ -1,0 +1,56 @@
+body {
+	font-family: 'Century Gothic';
+}
+
+a:hover{
+ 
+
+  font-size: 20px;
+  padding: 10px;
+  color: #585858;
+}
+a2{
+  font-size: 25px;
+  padding: 100px;
+  color:#FFFFFF;
+}
+nav {
+  background-color: #F0F0F0;
+  padding: 10px;
+}
+
+.text-block {
+
+margin: 0% 20% 0% 20%
+}
+
+
+.textcols {
+	white-space: nowrap;
+	font-size: 0;
+	
+}
+.textcols-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+	background: #F0F0F0;
+	margin-right: 5%;
+	font-size: 5px;
+}
+.textcols .textcols-item:last-child {
+	margin-right: 0 ;
+}
+.textcols-item2 {
+	white-space: normal;	
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+	background: #F0F0F0;
+	margin-right: 5%;
+	font-size: 5px;
+}
+
+
+

@@ -1,0 +1,86 @@
+body {
+	font-family: 'Century Gothic';
+}
+a{
+  background-color: #F0F0F0;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+  border-right: 1px #dcdcdc solid;
+  border-left: 1px #dcdcdc solid;
+  color: #585858;
+ 
+}
+a:hover{
+ 
+  background: linear-gradient(#d6d6d6,#F0F0F0);
+  font-size: 20px;
+  padding: 10px;
+  color: #585858;
+}
+a2{
+  font-size: 25px;
+  padding: 100px;
+  color:#FFFFFF;
+}
+a3{
+  font-size: 17px;
+  padding: 100px;
+  color:#282828;
+}
+nav {
+  background-color: #F0F0F0;
+  padding: 10px;
+}
+
+.text-block {
+
+margin: 0% 20% 0% 20%
+}
+
+
+.textcols {
+	white-space: nowrap;
+	font-size: 0;
+	
+}
+.textcols-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+	
+	margin-right: 5%;
+	font-size: 5px;
+}
+.textcols .textcols-item:last-child {
+	margin-right: 0 ;
+}
+.textcols-item2 {
+	white-space: normal;	
+	display: inline-block;
+	width: 63%;
+	vertical-align: top;
+	
+	margin-right: 3%;
+	font-size: 5px;
+}
+.textcols-item3 {
+	white-space: normal;	
+	display: inline-block;
+	width: 26%;
+	vertical-align: top;
+	
+	margin-right: 2%;
+	font-size: 5px;
+}
+
+#table tbody tr:nth-child(odd){
+	background: #fff;
+}
+ 
+
+#table tbody tr:nth-child(even){
+	background: #F7F7F7;
+}
+
